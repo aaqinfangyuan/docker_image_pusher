@@ -9,3 +9,4 @@ centos
 tomcat
 mysql
 redis
+java:8
